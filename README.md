@@ -15,7 +15,7 @@
 12. Загороднев Максим Денисович - Zagorodnev_id23_2
 13. Кикеева Александра Владимировна - Kikeeva_id23_2
 14. Кочнева Полина Вадимовна - Kochneva_id23_2
-15. Ле Суан Бать - Le Suan Bat'_id23_2
+15. Ле Суан Бать - Le Suan Bat_id23_2
 16. Маев Максим Алексеевич - Maev_id23_2
 17. Малинин Илья Андреевич - Malinin_id23_2
 18. Никифоров Максим Алексеевич - Nikiforov_id23_2
@@ -26,3 +26,23 @@
 23. Турунцев Пётр Вячеславович - Turuntsev_id23_2
 24. Чернышова Анастасия Николаевна - Chernyshova_id23_2
 25. Шиндяйкин Кирилл Евгеньевич - Shindyaykin_id23_2
+
+| Students      | 1lab  | 2lab | 3lab | 4lab |
+|---------------|-------|------|------|------|
+| Abakirova     |       |      |      |      |
+| Baktybaeva    | сдано |      |      |      |
+| Bezuglov      |       |      |      |      |
+| Belyaev       |       |      |      |      |
+| Braginets     |       |      |      |      |
+| Volkov        | сдано |      |      |      |
+| Voronina      |       |      |      |      |
+| Getmanov      | сдано |      |      |      |
+| Glushchenko   |       |      |      |      |
+| Goova         |       |	 	|	 	|
+| Gorovenko    	| сдано	|	 	|	 	|
+| Zagorodnev  	| 	 	|	 	|	 	|
+| Kikeeva      	| 	 	|	 	|	 	|
+| Kochneva    	| 	 	|	 	|	 	|
+| Le Suan Bat' 	| 	 	|	 	|	 	|
+| Maev         	| сдано	|	 	|	 	|
+| Malinin      	| 	 	|	 	|	 	|
