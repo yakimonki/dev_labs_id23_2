@@ -45,4 +45,4 @@
 | Kochneva    	| 	 	|	 	|	 	|
 | Le Suan Bat' 	| 	 	|	 	|	 	|
 | Maev         	| сдано	|	 	|	 	|
-| Malinin      	| 	 	|	 	|	 	|
+| Malinin      	| сдано	 	|	 	|	 	|
