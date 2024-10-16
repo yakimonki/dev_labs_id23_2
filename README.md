@@ -41,7 +41,7 @@
 | Goova         |       |	 	|	 	|
 | Gorovenko    	| сдано	|	 	|	 	|
 | Zagorodnev  	| 	 	|	 	|	 	|
-| Kikeeva      	| 	 	|	 	|	 	|
+| Kikeeva      	| сдано	 	|	 	|	 	|
 | Kochneva    	| 	 	|	 	|	 	|
 | Le Suan Bat' 	| 	 	|	 	|	 	|
 | Maev         	| сдано	|	 	|	 	|
