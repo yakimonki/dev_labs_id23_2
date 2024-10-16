@@ -33,7 +33,7 @@
 | Baktybaeva    | сдано |      |      |      |
 | Bezuglov      |       |      |      |      |
 | Belyaev       |       |      |      |      |
-| Braginets     |       |      |      |      |
+| Braginets     | сдано      |      |      |      |
 | Volkov        | сдано |      |      |      |
 | Voronina      |       |      |      |      |
 | Getmanov      | сдано |      |      |      |
