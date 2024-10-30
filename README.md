@@ -46,6 +46,6 @@
 | Le Suan Bat' 	| сдано |	 	|	 	|
 | Maev         	| сдано	|сдано!|	 	|
 | Malinin      	| сдано	 	|	 	|	 	|
-| Chernyshova      	| сдано	 	|	 	|	 	|
+| Chernyshova      	| сдано	 	|	сдано 	|	 	|
 | Turuntsev      	| сдано	 	| сдано	|	 	| 
 | Shindyaykin   	| сдано	 	| сдано	|	 	|  |
