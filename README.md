@@ -33,7 +33,7 @@
 | Baktybaeva    | сдано | сдано|      |      |
 | Bezuglov      | сдано |      |      |      |
 | Belyaev       | сдано |      |      |      |
-| Braginets     | сдано |      |      |      |
+| Braginets     | сдано |сдано      |      |      |
 | Volkov        | сдано | сдано     |      |      |
 | Voronina      | сдано | сдано!|      |      |
 | Getmanov      | сдано |      |      |      |
@@ -49,3 +49,4 @@
 | Chernyshova      	| сдано	 	|	сдано 	|	 	|
 | Turuntsev      	| сдано	 	| сдано	|	 	| 
 | Shindyaykin   	| сдано	 	| сдано	|	 	|  |
+| Timoshenkov | сдано	 	| сдано	|	 	|  |
