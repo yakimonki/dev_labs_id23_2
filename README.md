@@ -47,3 +47,4 @@
 | Maev         	| сдано	|сдано!|	 	|
 | Malinin      	| сдано	 	|	 	|	 	|
 | Chernyshova      	| сдано	 	|	 	|	 	|
+| Turuntsev      	| сдано	 	| сдано	|	 	| 
