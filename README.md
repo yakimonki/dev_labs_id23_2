@@ -42,7 +42,7 @@
 | Gorovenko    	| сдано	|	сдано |	 	|
 | Zagorodnev  	| 	 	|	 	|	 	|
 | Kikeeva      	| сдано	 	|	 	|	 	|
-| Kochneva    	| 	 	| сдано! |	 	|
+| Kochneva    	| сдано | сдано! |	 	|
 | Le Suan Bat' 	| сдано |	 	|	 	|
 | Maev         	| сдано	|сдано!|	 	|
 | Malinin      	| сдано	 	|	 	|	 	|
