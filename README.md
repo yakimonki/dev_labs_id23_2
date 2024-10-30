@@ -29,7 +29,7 @@
 
 | Students      | 1lab  | 2lab | 3lab | 4lab |
 |---------------|-------|------|------|------|
-| Abakirova     |       | сдано!     |      |      |
+| Abakirova     | сдано      | сдано!     |      |      |
 | Baktybaeva    | сдано | сдано|      |      |
 | Bezuglov      | сдано |      |      |      |
 | Belyaev       | сдано |      |      |      |
