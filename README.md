@@ -29,22 +29,23 @@
 
 | Students      | 1lab  | 2lab | 3lab | 4lab |
 |---------------|-------|------|------|------|
-| Abakirova     |       |      |      |      |
-| Baktybaeva    | сдано |      |      |      |
-| Bezuglov      |       |      |      |      |
+| Abakirova     |       | сдано!     |      |      |
+| Baktybaeva    | сдано | сдано|      |      |
+| Bezuglov      | сдано |      |      |      |
 | Belyaev       | сдано |      |      |      |
 | Braginets     | сдано |      |      |      |
 | Volkov        | сдано | сдано     |      |      |
-| Voronina      |       |      |      |      |
+| Voronina      | сдано | сдано!|      |      |
 | Getmanov      | сдано |      |      |      |
 | Glushchenko   |       |      |      |      |
 | Goova         |       |	 	|	 	|
 | Gorovenko    	| сдано	|	сдано |	 	|
 | Zagorodnev  	| 	 	|	 	|	 	|
 | Kikeeva      	| сдано	 	|	 	|	 	|
-| Kochneva    	| 	 	|	 	|	 	|
+| Kochneva    	| 	 	| сдано! |	 	|
 | Le Suan Bat' 	| сдано |	 	|	 	|
 | Maev         	| сдано	|сдано!|	 	|
 | Malinin      	| сдано	 	|	 	|	 	|
 | Chernyshova      	| сдано	 	|	 	|	 	|
 | Turuntsev      	| сдано	 	| сдано	|	 	| 
+| Shindyaykin   	| сдано	 	| сдано	|	 	|  |
