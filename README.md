@@ -43,7 +43,7 @@
 | Zagorodnev  	| 	 	|	 	|	 	|
 | Kikeeva      	| сдано	 	|	 	|	 	|
 | Kochneva    	| 	 	|	 	|	 	|
-| Le Suan Bat' 	| 	 	|	 	|	 	|
+| Le Suan Bat' 	| сдано |	 	|	 	|
 | Maev         	| сдано	|сдано!|	 	|
 | Malinin      	| сдано	 	|	 	|	 	|
 | Chernyshova      	| сдано	 	|	 	|	 	|
