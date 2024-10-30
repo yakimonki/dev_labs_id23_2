@@ -44,6 +44,6 @@
 | Kikeeva      	| сдано	 	|	 	|	 	|
 | Kochneva    	| 	 	|	 	|	 	|
 | Le Suan Bat' 	| 	 	|	 	|	 	|
-| Maev         	| сдано	|	 	|	 	|
+| Maev         	| сдано	|сдано!|	 	|
 | Malinin      	| сдано	 	|	 	|	 	|
 | Chernyshova      	| сдано	 	|	 	|	 	|
