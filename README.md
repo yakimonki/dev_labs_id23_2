@@ -34,7 +34,7 @@
 | Bezuglov      |       |      |      |      |
 | Belyaev       | сдано |      |      |      |
 | Braginets     | сдано |      |      |      |
-| Volkov        | сдано |      |      |      |
+| Volkov        | сдано | сдано     |      |      |
 | Voronina      |       |      |      |      |
 | Getmanov      | сдано |      |      |      |
 | Glushchenko   |       |      |      |      |
