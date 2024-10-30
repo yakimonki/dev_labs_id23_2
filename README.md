@@ -39,7 +39,7 @@
 | Getmanov      | сдано |      |      |      |
 | Glushchenko   |       |      |      |      |
 | Goova         |       |	 	|	 	|
-| Gorovenko    	| сдано	|	 	|	 	|
+| Gorovenko    	| сдано	|	сдано |	 	|
 | Zagorodnev  	| 	 	|	 	|	 	|
 | Kikeeva      	| сдано	 	|	 	|	 	|
 | Kochneva    	| 	 	|	 	|	 	|
