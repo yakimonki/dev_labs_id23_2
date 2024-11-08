@@ -37,7 +37,7 @@
 | Volkov        | сдано | сдано     |      |      |
 | Voronina      | сдано | сдано!|      |      |
 | Getmanov      | сдано | сдано |      |      |
-| Glushchenko   |       |      |      |      |
+| Glushchenko   |       |       |      |      |
 | Goova         |       |	 	|	 	|
 | Gorovenko    	| сдано	|	сдано |	 	|
 | Zagorodnev  	| 	 	|	 	|	 	|
@@ -50,3 +50,4 @@
 | Turuntsev      	| сдано	 	| сдано	|	 	| 
 | Shindyaykin   	| сдано	 	| сдано	|	 	|  |
 | Timoshenkov | сдано	 	| сдано	|	 	|  |
+| Pletneva | сдано	 	| сдано	|	 	|  |
