@@ -36,7 +36,7 @@
 | Braginets     | сдано |сдано      |      |      |
 | Volkov        | сдано | сдано     |      |      |
 | Voronina      | сдано | сдано!|      |      |
-| Getmanov      | сдано |      |      |      |
+| Getmanov      | сдано | сдано |      |      |
 | Glushchenko   |       |      |      |      |
 | Goova         |       |	 	|	 	|
 | Gorovenko    	| сдано	|	сдано |	 	|
