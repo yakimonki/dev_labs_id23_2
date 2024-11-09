@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 from tkinter import *
 import math
 
@@ -46,16 +40,4 @@ moveBall()
 
 # Запуск главного цикла
 root.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
