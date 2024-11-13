@@ -38,7 +38,7 @@
 | Voronina      | сдано | сдано!|      |      |
 | Getmanov      | сдано | сдано |      |      |
 | Glushchenko   |       |       |      |      |
-| Goova         |       |	 	|	 	|
+| Goova         | сдано      |	сдано 	|	 	|+
 | Gorovenko    	| сдано	|	сдано |	 	|
 | Zagorodnev  	| 	 	|	 	|	 	|
 | Kikeeva      	| сдано	 	|	 	|	 	|
