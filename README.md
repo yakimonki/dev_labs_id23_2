@@ -52,4 +52,5 @@
 | Timoshenkov | сдано	 	| сдано	|	 	|  |
 | Pletneva | сдано	 	| сдано	|	 	|  |
 | Nikiforov | сдано	 	| сдано	|	 	|  |+
+| Zagorodnev | сдано	 	| сдано(5)	|	 	|  |12
 
