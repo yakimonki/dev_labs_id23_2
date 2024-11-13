@@ -36,7 +36,7 @@
 | Braginets     | сдано |сдано      |      |      |
 | Volkov        | сдано | сдано     |      |      |
 | Voronina      | сдано | сдано!|      |      |
-| Getmanov      | сдано | сдано |      |      |
+| Getmanov      | сдано | сдано | сдано*|      |+
 | Glushchenko   |       |       |      |      |
 | Goova         | сдано      |	сдано 	|	 	|+
 | Gorovenko    	| сдано	|	сдано |	 	|
@@ -45,9 +45,11 @@
 | Kochneva    	| сдано | сдано! |	 	|
 | Le Suan Bat' 	| сдано |	 	|	 	|
 | Maev         	| сдано	|сдано!|	 	|
-| Malinin      	| сдано	 	|	 	|	 	|
+| Malinin      	| сдано	 	|	 	|	 	|+
 | Chernyshova      	| сдано	 	|	сдано 	|	 	|
 | Turuntsev      	| сдано	 	| сдано	|	 	| 
-| Shindyaykin   	| сдано	 	| сдано	|	 	|  |
+| Shindyaykin   	| сдано	 	| сдано 30%	|	 	|  | 
 | Timoshenkov | сдано	 	| сдано	|	 	|  |
 | Pletneva | сдано	 	| сдано	|	 	|  |
+| Nikiforov | сдано	 	| сдано	|	 	|  |+
+
