@@ -45,7 +45,7 @@
 | Kochneva    	| сдано | сдано! |	 	|
 | Le Suan Bat 	| сдано | сдано |	 	|+
 | Maev         	| сдано	|сдано!|	 	|
-| Malinin      	| сдано	 	|	 	|	 	|+
+| Malinin      	| сдано	 	|	сдано 	|	 	|+
 | Chernyshova      	| сдано	 	|	сдано 	|	 	|
 | Turuntsev      	| сдано	 	| сдано	|	 	| 
 | Shindyaykin   	| сдано	 	| сдано 30%	|	 	|  | 
