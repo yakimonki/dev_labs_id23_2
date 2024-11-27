@@ -51,6 +51,6 @@
 | Shindyaykin   	| сдано	 	| сдано 30%	|	 	|  | 
 | Timoshenkov | сдано	 	| сдано	|	 	|  |
 | Pletneva | сдано	 	| сдано	|	 	|  |
-| Nikiforov | сдано	 	| сдано	|	 	|  |+
+| Nikiforov | сдано	 	| сдано	|	сдано |  |+
 | Zagorodnev | сдано	 	| сдано(5)	|	 	|  |12
 
