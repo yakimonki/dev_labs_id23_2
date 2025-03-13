@@ -350,4 +350,4 @@ GET /parse_status?task_id=уникальный_идентификатор_зад
 [Программирование и иже с ним(смотреть на свой страх и риск, но чувак сильный)](https://youtube.com/playlist?list=PLeLN0qH0-mCVQKZ8-W1LhxDcVlWtTALCS&si=swC88v6orGsczS0S)
 
 ## Распределение
-[gsheets]()
+[gsheets](https://docs.google.com/spreadsheets/d/1CiB4kq1ORXXnrQZAFIcMORWHooXfhc1yvr8Wg2K_NLg/edit?gid=0#gid=0)
