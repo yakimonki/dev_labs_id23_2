@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="https://ruz.fa.ru/"/>
+<node id="https://ruz.fa.ru/ruz/auditory/"/>
+<node id="https://ruz.fa.ru/ruz/main/"/>
+<node id="https://ruz.fa.ru/ruz/schedule/"/>
+<node id="https://ruz.fa.ru/ruz/"/>
+<edge source="https://ruz.fa.ru/" target="https://ruz.fa.ru/ruz/auditory/"/>
+<edge source="https://ruz.fa.ru/" target="https://ruz.fa.ru/ruz/main/"/>
+<edge source="https://ruz.fa.ru/" target="https://ruz.fa.ru/ruz/schedule/"/>
+<edge source="https://ruz.fa.ru/" target="https://ruz.fa.ru/ruz/"/>
+<edge source="https://ruz.fa.ru/" target="https://ruz.fa.ru/"/>
+</graph></graphml>
